@@ -1,1 +1,1 @@
-Baseline CNN for Concrete Crack Detection
+Baseline CNN and ViT for Concrete Crack Detection
